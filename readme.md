@@ -1,4 +1,4 @@
-Note 1: This project description is to be read with the attached Capstone Presentation PDF AND 7 Jupyter Notebooks as directed per each section. 
+Note 1: This project description is to be read with the attached Capstone Presentation PDF AND 10 Jupyter Notebooks as directed per each section. 
 
 # Data Science Immersive Captsone
 # Lujain Felemban
