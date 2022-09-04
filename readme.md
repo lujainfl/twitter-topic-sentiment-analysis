@@ -1,6 +1,6 @@
 Note 1: This project description is to be read with the attached Capstone Presentation PDF AND 10 Jupyter Notebooks as directed per each section. 
 
-# Twitter Sentiment Analysis by Topic for a Select Group
+# Topic-based Sentiment Analysis Of Select Group of Twitter Users
 #### Data Science Immersive Captsone
 ### Author: Lujain Felemban
 
